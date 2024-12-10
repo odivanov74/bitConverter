@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bitConverter/static/css/main.c5026ae6.css",
+    "main.js": "/bitConverter/static/js/main.320c3c24.js",
+    "index.html": "/bitConverter/index.html",
+    "main.c5026ae6.css.map": "/bitConverter/static/css/main.c5026ae6.css.map",
+    "main.320c3c24.js.map": "/bitConverter/static/js/main.320c3c24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5026ae6.css",
+    "static/js/main.320c3c24.js"
+  ]
+}
